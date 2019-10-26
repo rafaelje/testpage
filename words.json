@@ -1,0 +1,23 @@
+[
+    {
+        "word": "open",
+        "correctId": "1",
+        "options": [
+            { "id": "1", "option": "abierto" },
+            { "id": "2", "option": "actual" },
+            { "id": "3", "option": "adelante" },
+            { "id": "4", "option": "aduana" }
+        ]
+    },
+    {
+        "word": "remember",
+        "correctId": "5",
+        "options": [
+            { "id": "5", "option": "acordarse" },
+            { "id": "6", "option": "aeropuerto" },
+            { "id": "7", "option": "afeitarse" },
+            { "id": "8", "option": "palabra" }
+        ]
+    }
+
+]
