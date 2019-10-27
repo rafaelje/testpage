@@ -3,20 +3,20 @@
         "word": "open",
         "correctId": "1",
         "options": [
-            { "id": "1", "option": "abierto" },
-            { "id": "2", "option": "actual" },
-            { "id": "3", "option": "adelante" },
-            { "id": "4", "option": "aduana" }
+            { "id": "1", "option": "abierto", "correct": true },
+            { "id": "2", "option": "actual", "correct": false },
+            { "id": "3", "option": "adelante", "correct": false },
+            { "id": "4", "option": "aduana", "correct": false }
         ]
     },
     {
         "word": "remember",
         "correctId": "5",
         "options": [
-            { "id": "5", "option": "acordarse" },
-            { "id": "6", "option": "aeropuerto" },
-            { "id": "7", "option": "afeitarse" },
-            { "id": "8", "option": "palabra" }
+            { "id": "5", "option": "acordarse", "correct": true },
+            { "id": "6", "option": "aeropuerto", "correct": false },
+            { "id": "7", "option": "afeitarse", "correct": false },
+            { "id": "8", "option": "palabra", "correct": false }
         ]
     }
 
